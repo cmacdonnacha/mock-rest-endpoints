@@ -2,6 +2,7 @@
   "users": [
     { "id": 1, "name": "Omar Little" },
     { "id": 2, "name": "Stringer Bell" },
-    { "id": 3, "name": "Jimmy McNulty" }
+    { "id": 3, "name": "Jimmy McNulty" },
+{ "id": 4, "name": "Bunk Moreland" }
   ]
 }
