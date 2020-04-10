@@ -1,8 +1,8 @@
 {
   "users": [
-    { "id": 1, "name": "Omar Little" },
-    { "id": 2, "name": "Stringer Bell" },
-    { "id": 3, "name": "Jimmy McNulty" },
-    { "id": 4, "name": "Bunk Moreland" }
+    { "id": 1, "name": "Omar Little", "avatarUrl": "https://i.imgur.com/eTia7Xp.jpg" },
+    { "id": 2, "name": "Stringer Bell", "avatarUrl": "https://i.imgur.com/aCf1L6f.png" },
+    { "id": 3, "name": "Jimmy McNulty", "avatarUrl": "https://i.imgur.com/7mgyfIC.png" },
+    { "id": 4, "name": "Bunk Moreland", "avatarUrl": "https://i.imgur.com/ZL4Myez.png" }
   ]
 }
